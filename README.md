@@ -3,7 +3,7 @@
 
 ## Description
 
-This project is a factory for making pacmen.  The user can add as many pacmen as desired.  Click "Add PacMan" to add another PacMan to the page.  Click "Start Game" to start. 
+This project is a factory for making pacmen.  The user can add as many pacmen as desired to the page at any time, and start the game when they want the Pacmen to start bouncing around the page.
 
 ## How To Run:
 1. Fork project.
