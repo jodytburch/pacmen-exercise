@@ -1,5 +1,5 @@
 # Pacmen Factory Exercise
-<img src=".images/PacMan1.png">
+<img src="./images/PacMan1.png">
 
 ## Description
 
