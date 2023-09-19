@@ -1,22 +1,23 @@
 # Pacmen Factory Exercise
 <img src="./images/PacMan1.png">
 
-## Description
+## Description:
 
-This project is a factory for making pacmen.  The user can add as many pacmen as desired to the page at any time, and start the game when they want the Pacmen to start bouncing around the page.
+This project is a factory for making pacmen.  You can add as many pacmen as you want to the page at any time by using the "Add PacMan" button. When you want the Pacmen to start bouncing around the page, click the "Start Game" button.
 
 ## How To Run:
-1. Fork project.
-2. Open or drag/drop the "index.html" file into a browser. 
-3. Click "Add PacMan" to add a PacMan to the page.  
-4. Click "Start Game" when you want the PacMen to start moving.
-5. You can click "Add PacMan" at any time to add more to the page.
+1. Get a copy of the following files by downloading or forking and cloning the repo to your local computer:
+    - eyes.js
+    - styles.css
+    - index.html
+2. Package the eyes.js and index.html - TODO: LOOK INTO THIS
+3. Open or drag/drop the "index.html" file into a browser. 
 
 ## Roadmap of Future Enhancements:
 - Make PacMen alternate open and closed mouth using images.
 - Make PacMen face left when moving left across the screen, and face right again when moving right again.
 
-## License Information
-** See LICENSE file **
+## License Information:
+** See LICENSE file for MIT License Information **
 
 
