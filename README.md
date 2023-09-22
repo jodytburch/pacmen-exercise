@@ -18,6 +18,5 @@ This project is a factory for making pacmen.  You can add as many pacmen as you 
 - Make PacMen face left when moving left across the screen, and face right again when moving right again.
 
 ## License Information:
-** See LICENSE file for MIT License Information **
-
+**Go to: [LICENSE](./LICENSE)**
 
